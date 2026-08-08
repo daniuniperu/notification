@@ -1,0 +1,1 @@
+spring.data.mongodb.uri=mongodb+srv://USERNAME:PASSWORD@cluster.mongodb.net/DATABASE_NAME?appName=AppName
